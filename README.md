@@ -13,7 +13,7 @@
 
 - 📫 **Am mostly active on Discord. MrAggo#2004**
 
-- 📄 [I have worked on many side-projects which I haven't released on GitHub cause they are doodoo 💩](I have worked on many side-projects which I haven't released on GitHub cause they are doodoo 💩)
+- 📄 I have worked on many side-projects which I haven't released on GitHub cause they are doodoo 💩
 
 - ⚡ Fun fact **I love food 🍗**
 
