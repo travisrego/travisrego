@@ -30,7 +30,7 @@
 <p><a href="https://www.buymeacoffee.com/travisrego"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="travisrego" /></a></p><br><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=travisrego&show_icons=true&locale=en&layout=compact" alt="travisrego" /></p><br> <br> <br> <br> <br> <br> <br> 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=travisrego&show_icons=true&locale=en&layout=compact" alt="travisrego" /></p><br> <br> 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=travisrego&show_icons=true&locale=en" alt="travisrego" /></p>
 
