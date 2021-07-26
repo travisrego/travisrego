@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Travis Rego</h1>
+<h1 align="center">Hi     <img src="https://raw.githubusercontent.com/travisrego/travisrego/main/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Travis Rego</h1>
 <h3 align="center">I'm mostly an Open Source Software Developer, Indie Developer, Hacker.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=travisrego&label=Profile%20views&color=0e75b6&style=flat" alt="travisrego" /> </p>
