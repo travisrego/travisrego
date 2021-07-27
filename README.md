@@ -1,4 +1,4 @@
-<h1 align="center">Hi     <img src="https://raw.githubusercontent.com/travisrego/travisrego/main/wave.gif" 
+<h1 align="center">Hi     <img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Travis Rego</h1>
