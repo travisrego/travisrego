@@ -6,7 +6,7 @@
 <h2>I am a Self-Taught Software Developer, Indie Game Developer, Hacker.</h2>
 <h4>from India <img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/indian-flag.png" height="18" weight="18">&nbsp;current living in Kuwait <img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/kwt-flag.png" height="18" width="18">&nbsp; The time here is <b>0:00 AM</b> and it's the <b>XX<sup>th</sup> of September 20XX (XX/XX/XX)</b>.</h4><br />
 
-<center><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/banner.png" alt="banner" width="100%"/></center>
+<center><img style="border-radius: 52% 47% 47% 54% / 48% 47% 53% 53%"; src="https://i.imgur.com/td11Xzg.png" alt="banner" width="80%" height="" /></center>
 
 
 
