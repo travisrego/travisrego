@@ -49,5 +49,5 @@
 <br />
 
 <p align="center">
-<a href="#"><img src="https://i.imgur.com/t6oKHuv.png" height="150" width="100%"></a>
+<a href=""><img src="https://i.imgur.com/t6oKHuv.png" height="150" width="100%"></a>
 </p>
