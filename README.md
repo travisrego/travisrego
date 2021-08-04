@@ -18,14 +18,35 @@
 Table of contents
 =================
 
-   * [Latest Project](#latest-project)
-   * [Github Stats](#github-stats)
-   * [Dev Jokes](#dev-jokes)
-   * [Connect with Me](#connect-with-me)
+   * [About Me](#-about-me)
+     * [Tools and Languages](#-tools-and-languages)
+     * [FAQ](#-faq)
+   * [Latest Project](#-latest-project)
+   * [Github Stats](#-github-stats)
+   * [Dev Jokes](#-dev-jokes)
 
 <br />
 
+## 😁 About Me
 
+- 🔭 I’m currently working on **Borderrain**
+
+- 🌱 I’m currently learning **C#**
+
+<!-- - 👯 I’m looking to collaborate on **test** -->
+
+<!-- - 🤝 I’m looking for help with **test** --> 
+
+- 💬 Ask me about **C#, Python, Web Development**
+
+- 📫 You can reach me on Discord **MrAggo#2004**
+
+- ⚡ Fun fact **I love food 🍗**
+
+<br />
+
+## 🧰 Tools and Languages 
+<b><i style="text-: italic;">that I know and use.</i></b>
 
 <br />
 
@@ -59,7 +80,7 @@ Table of contents
 
 ## 🤓 Dev Jokes
 <a href="#">
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=transparent" alt="Jokes Card" />
 </a>
 
 <br />
