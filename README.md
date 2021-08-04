@@ -5,7 +5,7 @@
 
 <!--Don't forget to add FS-->
 
-<h2>I am a Self-Taught Software Developer, Indie Game Developer, Hacker.</h2>
+<h3>I am a Self-Taught Software Developer, Indie Game Developer, Hacker.</h3>
 <h4>from India <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/indian-flag.png" height="18" weight="18"></a>&nbsp;current living in Kuwait <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/kwt-flag.png" height="18" width="18"></a>&nbsp; The time here is <b>0:00 AM</b> and it's the <b>XX<sup>th</sup> of September 20XX (XX/XX/XX)</b>.</h4><br />
 
 
@@ -13,14 +13,38 @@
   <a href="#"><img width="80%" src="https://i.imgur.com/SZoPflb.png" ></a>
 </p>
 
+<br />
+
+Table of contents
+=================
+
+<!--ts-->
+   * [Latest Project](#latest-project)
+   * [Github Stats](#github-stats)
+      * [STDIN](#stdin)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+   * [Docker](#docker)
+     * [Local](#local)
+     * [Public](#public)
+
+<br />
+
 ## Latest Project
 
 <div align="center">
 <a href="https://github.com/travisrego/Pong">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=travisrego&repo=Pong&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues&show_icons=true&show_owner=true&icon_color=fff" /> &nbsp; 
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/pin/?username=travisrego&repo=Pong&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues&show_icons=true&show_owner=true&icon_color=fff" /> &nbsp; 
 </a>
 <a href="https://github.com/travisrego/Jam-Pass-Generator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=travisrego&repo=Jam-Pass-Generator&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues&show_icons=true&show_owner=true&icon_color=fff" />
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=travisrego&repo=Jam-Pass-Generator&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues&show_icons=true&show_owner=true&icon_color=fff" />
 </a>
 </div>
 <br /> <br />
@@ -32,8 +56,8 @@
   
 <img alt="Travis Rego's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=travisrego&show_icons=true&count_private=true&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=f2f2f2" />
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisrego&layout=compact&count_private=true&&hide_border=true&bg_color=333&title_color=fff&text_color=fff&icon_color=f2f2f2" />
-<img src="https://github-profile-trophy.vercel.app/?username=travisrego&theme=discord&no-frame=true&row=1" alt="Travis's Profile Trophy" />
-
+<img src="https://github-profile-trophy.vercel.app/?username=travisrego&theme=discord&no-frame=true&row=1" alt="Travis's Profile Trophy" /><br />
+<img alt="Travis Rego Visiter badge" src="https://visitor-badge.glitch.me/badge?page_id=travisrego" />
 </a>
 </div>
 
