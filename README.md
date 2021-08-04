@@ -101,7 +101,7 @@ Table of contents
 <br />
 
 <p align="center">
-<a href="#"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/d01a8152d1a64f0a73eb76df1339912a7204d55f/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in"></a>
+<a href="#"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/30398a723da3b9d2edd963296c9a7a708491e70d/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in"></a>
 </p>
 
 <p align="center">
