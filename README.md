@@ -18,26 +18,18 @@
 Table of contents
 =================
 
-<!--ts-->
    * [Latest Project](#latest-project)
    * [Github Stats](#github-stats)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-      * [TOC generation with Github Actions](#toc-generation-with-github-actions)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-     * [Local](#local)
-     * [Public](#public)
+   * [Dev Jokes](#dev-jokes)
+   * [Connect with Me](#connect-with-me)
 
 <br />
 
-## Latest Project
+
+
+<br />
+
+## 🚧 Latest Project
 
 <div align="center">
 <a href="https://github.com/travisrego/Pong">
@@ -49,7 +41,7 @@ Table of contents
 </div>
 <br /> <br />
 
-## Github Stats
+## 📈 Github Stats
 
 <div align="center">
 <a  href="https://github.com/travisrego"> 
@@ -60,15 +52,25 @@ Table of contents
 <img alt="Travis Rego Visiter badge" src="https://visitor-badge.glitch.me/badge?page_id=travisrego" />
 </a>
 </div>
+<br /> 
+<br />
 
 <!-- HTML -->
 
-## Dev Jokes
+## 🤓 Dev Jokes
 <a href="#">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </a>
 
-###### Last Manual Update was on **3/8/21**
+<br />
+<br />
+
+<a href="https://github.com/travisrego">
+<p align="center">
+<img alt="last manual update" src="https://img.shields.io/badge/Last%20Manual%20Update-4/8/21-brightgreen.svg?style=flat-square"></img>
+</p>
+</a>
+
 <br />
 <br />
 
