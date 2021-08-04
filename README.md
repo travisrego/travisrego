@@ -75,6 +75,8 @@ Table of contents
 <img alt="Travis Rego Visiter badge" src="https://visitor-badge.glitch.me/badge?page_id=travisrego" />
 </a>
 </div>
+<br />
+<a href="#table-of-contents">▲ Go Back to TOC</a>
 <br /> 
 <br />
 
@@ -84,7 +86,8 @@ Table of contents
 <a href="#">
 <img src="https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=purple" alt="Jokes Card" />
 </a>
-
+<br />
+<a href="#table-of-contents">▲ Go Back to TOC</a>
 <br />
 <br />
 
@@ -96,6 +99,10 @@ Table of contents
 
 <br />
 <br />
+
+<p align="center">
+<a href="#"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/6b60fd47e44eb3a29892a7ba97c089c261de7925/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in"></a>
+</p>
 
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/t6oKHuv.png" height="150" width="100%"></a>
