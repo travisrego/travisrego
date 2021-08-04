@@ -60,6 +60,8 @@ Table of contents
   <img width="42%" src="https://github-readme-stats.vercel.app/api/pin/?username=travisrego&repo=Jam-Pass-Generator&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=issues&show_icons=true&show_owner=true&icon_color=fff" />
 </a>
 </div>
+<br />
+<a href="#table-of-contents">▲ Go Back to TOC</a>
 <br /> <br />
 
 ## 📈 Github Stats
@@ -80,7 +82,7 @@ Table of contents
 
 ## 🤓 Dev Jokes
 <a href="#">
-<img src="https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=transparent" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=purple" alt="Jokes Card" />
 </a>
 
 <br />
