@@ -93,15 +93,15 @@ Table of contents
 
 <a href="https://github.com/travisrego">
 <p align="center">
-<img alt="last manual update" src="https://img.shields.io/badge/Last%20Manual%20Update-4/8/21-brightgreen.svg?style=flat-square"></img>
+<img alt="last manual update" src="https://img.shields.io/badge/Last%20Manual%20Update-5/8/21-brightgreen.svg?style=flat-square"></img>
 </p>
 </a>
 
 <br />
 <br />
 
-<p align="center">
-<a href="#"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/30398a723da3b9d2edd963296c9a7a708491e70d/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in"></a>
+<p align="left">
+<a href="#"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in"></a>
 </p>
 
 <p align="center">
