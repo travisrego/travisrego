@@ -57,11 +57,7 @@ Table of contents
 <br />
 
 ## 🛠️ Tools and Languages
-<<<<<<< HEAD
-###### that I know and use
-=======
 ###### that I use and know
->>>>>>> 2ebadacc97c6362ff52eb676ee1d2a6c339a549a
 
 
 ### 👨‍💻 Programming languages 
