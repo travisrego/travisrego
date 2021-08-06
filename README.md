@@ -109,6 +109,12 @@ Table of contents
 
 <a href="https://github.com/travisrego">
 <p align="center">
+<img alt="update"  src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/update-rotation.svg">
+</p>
+</a>
+
+<a href="https://github.com/travisrego">
+<p align="center">
 <img alt="last manual update" src="https://img.shields.io/badge/Last%20Manual%20Update-6/8/21-brightgreen.svg?style=flat-square"></img>
 </p>
 </a>
