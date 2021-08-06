@@ -1,12 +1,15 @@
+<h1 align="center">Hi <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/wave.gif" alt="Waving hand animated gif" height="45" width="45"/></a>, I'm</h1>
+
 <p align="center">
 <a href="https://github.com/travisrego">
 <img width="80%" alt="Travis rego" src="https://i.imgur.com/8le0Ecy.gif">
 </img>
 </a>
-</p>
+</p> 
 
+<!--
 <h1 style="text-align: center;">Hi
-<a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/wave.gif" alt="Waving hand animated gif" height="45" width="45"/></a>, I'm Travis Rego</h1>
+<a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/wave.gif" alt="Waving hand animated gif" height="45" width="45"/></a>, I'm Travis Rego</h1> -->
 
 <!--Don't forget to add FS-->
 
@@ -105,7 +108,7 @@ Table of contents
 
 <a href="https://github.com/travisrego">
 <p align="center">
-<img alt="last manual update" src="https://img.shields.io/badge/Last%20Manual%20Update-5/8/21-brightgreen.svg?style=flat-square"></img>
+<img alt="last manual update" src="https://img.shields.io/badge/Last%20Manual%20Update-6/8/21-brightgreen.svg?style=flat-square"></img>
 </p>
 </a>
 
