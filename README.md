@@ -1,4 +1,9 @@
-
+<p align="center">
+<a href="https://github.com/travisrego">
+<img width="80%" alt="Travis rego" src="https://i.imgur.com/8le0Ecy.gif">
+</img>
+</a>
+</p>
 
 <h1 style="text-align: center;">Hi
 <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/wave.gif" alt="Waving hand animated gif" height="45" width="45"/></a>, I'm Travis Rego</h1>
@@ -6,14 +11,15 @@
 <!--Don't forget to add FS-->
 
 <h3>I am a Self-Taught Software Developer, Indie Game Developer, Hacker.</h3>
-<h4>from India <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/indian-flag.png" height="18" weight="18"></a>&nbsp;current living in Kuwait <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/kwt-flag.png" height="18" width="18"></a>&nbsp; The time here is <b>0:00 AM</b> and it's the <b>XX<sup>th</sup> of September 20XX (XX/XX/XX)</b>.</h4><br />
+<h4>from India <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/indian-flag.png" height="18" weight="18"></a>&nbsp;current living in Kuwait <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/kwt-flag.png" height="18" width="18"></a>&nbsp; The time here is <b>0:00 AM</b> and it's the <b>XX<sup>th</sup> of September 20XX (XX/XX/XX)</b>.</h4>
 
-
+<!--
+<br />
 <p align="center">
   <a href="#"><img width="80%" src="https://i.imgur.com/SZoPflb.png" ></a>
 </p>
-
 <br />
+-->
 
 Table of contents
 =================
@@ -45,8 +51,14 @@ Table of contents
 
 <br />
 
-## 🧰 Tools and Languages 
+## 🛠️ Tools and Languages
 <b><i style="text-: italic;">that I know and use.</i></b>
+
+<br />
+
+### 👨‍💻 Programming languages 
+
+<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <br />
 
