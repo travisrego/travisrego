@@ -13,8 +13,8 @@
 
 <!--Don't forget to add FS-->
 
-<h3>I am a Self-Taught Software Developer, Indie Game Developer, Hacker.</h3>
-<h4>from India <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/indian-flag.png" height="18" weight="18"></a>&nbsp;current living in Kuwait <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/kwt-flag.png" height="18" width="18"></a>&nbsp; The time here is <b>0:00 AM</b> and it's the <b>XX<sup>th</sup> of September 20XX (XX/XX/XX)</b>.</h4>
+<h3>I am a Self-taught Software Developer, Indie Game Developer, Hacker.</h3>
+<h4>From India, <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/indian-flag.png" height="18" weight="18"></a>&nbsp;currently living in Kuwait. <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/kwt-flag.png" height="18" width="18"></a>&nbsp; The time here is <b>0:00 AM</b> and it's the <b>XX<sup>th</sup> of September 20XX (XX/XX/XX)</b>.</h4>
 
 <!--
 <br />
@@ -48,6 +48,8 @@ Table of contents
 
 - 💬 Ask me about **C#, Python, Web Development**
 
+- 🥅 20XX Goals is to **Contribute more to Open Source projects**
+
 - 📫 You can reach me on Discord **MrAggo#2004**
 
 - ⚡ Fun fact **I love food 🍗**
@@ -55,9 +57,8 @@ Table of contents
 <br />
 
 ## 🛠️ Tools and Languages
-<b><i style="text-: italic;">that I know and use.</i></b>
+###### that I use and know
 
-<br />
 
 ### 👨‍💻 Programming languages 
 
