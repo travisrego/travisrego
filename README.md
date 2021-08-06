@@ -56,7 +56,7 @@ Table of contents
 
 <br />
 
-## 🛠️ Tools and Languages
+## 🛠 Tools and Languages
 ###### that I use and know
 
 
