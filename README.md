@@ -57,7 +57,7 @@ Table of contents
 <br />
 
 ## 🛠️ Tools and Languages
-<b><i style="text-: italic;">that I know and use.</i></b>
+###### that I know and use
 
 <br />
 
