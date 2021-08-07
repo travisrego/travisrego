@@ -93,7 +93,6 @@ Table of contents
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisrego&layout=compact&count_private=true&&hide_border=true&bg_color=333&title_color=fff&text_color=fff&icon_color=f2f2f2" /></a></div>
 </details>
 
-<br />
 
 <details>
 <summary> 🏆 Github Trophies </summary>
