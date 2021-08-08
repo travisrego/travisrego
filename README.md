@@ -61,8 +61,10 @@ Table of contents
 ### ⚙ Tools / IDE
 
 <p align="left">
-<a href="https://www.jetbrains.com/rider"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/rider.svg" alt="rider" width="40" height="40"></img></a>&nbsp; <a href="https://visualstudio.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"></img></a>&nbsp; <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"></img></a> &nbsp;<a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/sublime.svg" alt="sublime" width="40" height="40"></img></a> <a href="https://atom.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"></img></a> <a href="http://brackets.io"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" alt="brackets" width="40" height="40"></img></a>&nbsp; <a href="https://www.jetbrains.com/pycharm"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"></img></a> 
+<a href="https://www.jetbrains.com/rider"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/rider.svg" alt="rider" width="40" height="40"></img></a>&nbsp; <a href="https://visualstudio.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"></img></a>&nbsp; <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"></img></a> &nbsp;<a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/sublime.svg" alt="sublime" width="40" height="40"></img></a> <a href="https://atom.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"></img></a> <a href="http://brackets.io"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" alt="brackets" width="40" height="40"></img></a>&nbsp; <a href="https://www.jetbrains.com/pycharm"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"></img></a></p>
 
+<p>
+<a href="https://jupyter.org"><img src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/master/assets/main-logo.svg" alt="jupyter" width="40" height="40"></img></a>&nbsp; <a href="https://colab.research.google.com"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/COLLAB.svg" alt="collab" width="40" height="40"></img></a>
 </p>
 
 ### 💻 Software
@@ -160,3 +162,4 @@ Table of contents
 <p align="center">
 <a href="#"><img src="https://i.imgur.com/t6oKHuv.png" height="150" width="100%"></a>
 </p>
+$TIME $R_TIME $...  
