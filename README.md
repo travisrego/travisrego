@@ -95,7 +95,7 @@ Table of contents
 ## 📈 Github Stats
 
 <details> 
-<summary> 📊 GitHub Profile Stats</summary>
+<summary> <h3> 📊 GitHub Profile Stats </h3></summary>
 <br/>
 <div align="center">
 <a  href="https://github.com/travisrego"> 
