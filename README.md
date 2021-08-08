@@ -30,15 +30,15 @@ Table of contents
    * [😁 About Me](#-about-me)
      * [🛠 Tools and Languages](#-tools-and-languages)
        * [👨‍💻 Programming languages](#-programming-languages)
-       * [Frameworks](#-frameworks)
-       * [Software / IDE](#-software-/-ide)
+       * [🧰 Frameworks](#-frameworks)
+       * [💻 Software / IDE](#-software--ide)
      * [FAQ](#-faq)
-   * [Latest Project](#-latest-project)
-   * [Github Stats](#-github-stats)
-     * [GitHub Profile Stats](#-gitHub-profile-stats)
-     * [Github Trophies](#-github-trophies)
-     * [Recent Github Activity](#-recent-github-activity)
-   * [Dev Jokes](#-dev-jokes)
+   * [🚧 Latest Project](#-latest-project)
+   * [📈 Github Stats](#-github-stats)
+     * [📊 GitHub Profile Stats](#-gitHub-profile-stats)
+     * [🏆 Github Trophies](#-github-trophies)
+     * [⚡ Recent GitHub Activity](#-recent-github-activity)
+   * [🤓 Dev Jokes](#-dev-jokes)
 
 <br />
 
