@@ -27,11 +27,17 @@
 Table of contents
 =================
 
-   * [About Me](#-about-me)
+   * [😁 About Me](#-about-me)
      * [Tools and Languages](#-tools-and-languages)
+       * [Programming languages](#-programming-languages)
+       * [Frameworks](#-frameworks)
+       * [Software / IDE](#-software-/-ide)
      * [FAQ](#-faq)
    * [Latest Project](#-latest-project)
    * [Github Stats](#-github-stats)
+     * [GitHub Profile Stats](#-gitHub-profile-stats)
+     * [Github Trophies](#-github-trophies)
+     * [Recent Github Activity](#-recent-github-activity)
    * [Dev Jokes](#-dev-jokes)
 
 <br />
@@ -66,6 +72,8 @@ Table of contents
 ### 🧰 Frameworks
 
 <p align="left"> <a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"></a><a href="https://dotnet.microsoft.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"><a href="https://www.electronjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height"40"></img></a><a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></img></a><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a><a href="https://jquery.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"></img></a><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></img></a> <a href="https://flask.palletsprojects.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flash" width="40" height="40"></a>
+
+### 💻 Software / IDE
 
 <br />
 
