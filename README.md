@@ -28,8 +28,8 @@ Table of contents
 =================
 
    * [😁 About Me](#-about-me)
-     * [Tools and Languages](#-tools-and-languages)
-       * [Programming languages](#-programming-languages)
+     * [🛠 Tools and Languages](#-tools-and-languages)
+       * [👨‍💻 Programming languages](#-programming-languages)
        * [Frameworks](#-frameworks)
        * [Software / IDE](#-software-/-ide)
      * [FAQ](#-faq)
