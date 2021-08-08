@@ -58,11 +58,12 @@ Table of contents
 
 ## 🛠 Tools and Languages
 ###### that I use and know
-<br />
 
 ### 👨‍💻 Programming languages
 
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+
+### 🧰 Frameworks
 
 <br />
 
@@ -93,7 +94,6 @@ Table of contents
 <img alt="Top Langs" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=travisrego&layout=compact&count_private=true&&hide_border=true&bg_color=333&title_color=fff&text_color=fff&icon_color=f2f2f2" /></a></div>
 </details>
 
-<br />
 
 <details>
 <summary> 🏆 Github Trophies </summary>
@@ -102,6 +102,13 @@ Table of contents
 <a  href="https://github.com/travisrego"> 
 <img src="https://github-profile-trophy.vercel.app/?username=travisrego&theme=discord&no-frame=true&row=1" alt="Travis's Profile Trophy" /><br />
 </a></div>
+</details>
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+   <a href="https://github.com/travisrego"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=travisrego&custom_title=Travis's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <br/>
 </details>
 
 <div align="center">
