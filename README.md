@@ -7,22 +7,10 @@
 </a>
 </p> 
 
-<!--
-<h1 style="text-align: center;">Hi
-<a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/wave.gif" alt="Waving hand animated gif" height="45" width="45"/></a>, I'm Travis Rego</h1> -->
-
 <!--Don't forget to add FS-->
 
 <h3>I am a Self-taught Software Developer, Indie Game Developer, Hacker.</h3>
 <h4>From India, <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/indian-flag.png" height="18" weight="18"></a>&nbsp;currently living in Kuwait. <a href="#"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/kwt-flag.png" height="18" width="18"></a>&nbsp; The time here is <b>0:00 AM</b> and it's the <b>XX<sup>th</sup> of September 20XX (XX/XX/XX)</b>.</h4>
-
-<!--
-<br />
-<p align="center">
-  <a href="#"><img width="80%" src="https://i.imgur.com/SZoPflb.png" ></a>
-</p>
-<br />
--->
 
 Table of contents
 =================
@@ -31,14 +19,11 @@ Table of contents
      * [🛠 Tools and Languages](#-tools-and-languages)
        * [👨‍💻 Programming languages](#-programming-languages)
        * [🧰 Frameworks](#-frameworks)
-       * [💻 Software / IDE](#-software--ide)
+       * [⚙ Tools / IDE](#-tools--ide)
      * [FAQ](#-faq)
    * [🚧 Latest Project](#-latest-project)
    * [📈 Github Stats](#-github-stats)
-     * [📊 GitHub Profile Stats](#-gitHub-profile-stats)
-     * [🏆 Github Trophies](#-github-trophies)
-     * [⚡ Recent GitHub Activity](#-recent-github-activity)
-   * [🤓 Dev Jokes](#-dev-jokes)
+   * [🤓 Dev Jokes](#-dev-jokes) 
 
 <br />
 
@@ -71,9 +56,18 @@ Table of contents
 
 ### 🧰 Frameworks
 
-<p align="left"> <a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"></a><a href="https://dotnet.microsoft.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"><a href="https://www.electronjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height"40"></img></a><a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></img></a><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a><a href="https://jquery.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"></img></a><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></img></a> <a href="https://flask.palletsprojects.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flash" width="40" height="40"></a>
+<p align="left"> <a href="https://dotnet.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnetcore" width="40" height="40"></a><a href="https://dotnet.microsoft.com"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="dotnet" width="40" height="40"><a href="https://www.electronjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height"40"></img></a><a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"></img></a><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a><a href="https://jquery.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" width="40" height="40"></img></a> <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"></img></a>&nbsp;<a href="https://flask.palletsprojects.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flash" width="40" height="40"></a></p>
 
-### 💻 Software / IDE
+### ⚙ Tools / IDE
+
+<p align="left">
+<a><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/rider.svg" alt="rider" width="40" height="40"></img></a>&nbsp;<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"></img></a>&nbsp;<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"></img></a> &nbsp;<a><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/sublime.svg" alt="sublime" width="40" height="40"></img></a> <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"></img></a> <a><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" alt="brackets" width="40" height="40"></img></a>&nbsp; <a><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"></img></a> 
+
+</p>
+
+### 💻 Software
+
+
 
 <br />
 
@@ -95,7 +89,7 @@ Table of contents
 ## 📈 Github Stats
 
 <details> 
-<summary> <h3> 📊 GitHub Profile Stats </h3></summary>
+<summary> 📊 GitHub Profile Stats </summary>
 <br/>
 <div align="center">
 <a  href="https://github.com/travisrego"> 
