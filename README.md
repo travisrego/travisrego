@@ -159,7 +159,7 @@ Table of contents
 
 **Ans: ***It took me alot of time and effort to make these. So I wont be sharing them*** SIKE!**
 
-I genuinely want to thank and shout out all these amazing repos which help make this readme look better than what it is.
+I genuinely want to thank and shout out all these amazing repos which help make my profile look better than what it is.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">Github Readme Stats</a>
 
