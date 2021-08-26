@@ -84,7 +84,7 @@ Table of contents
 <details>
 <summary>Q1) How did you learn to program?</summary>
 
-**Ans: I am a self-taught developer. I refer to few books and  go through documentation. Yes, I am that kind of guy 😬. Hopefully, in the future, I might look into couching and other mediums.**
+**Ans: I am a self-taught developer. I refer to few books and  go through documentation. Yes, I am that kind of guy 😬. Hopefully, in the future, I might look into coaching and other mediums.**
 
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 </details>
