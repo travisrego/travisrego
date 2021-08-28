@@ -249,8 +249,6 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 
-
-<br />
 <br />
 
 ---
