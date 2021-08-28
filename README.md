@@ -278,7 +278,7 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <img src="https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=purple" alt="Jokes Card" />
 </a>
 <a href="#table-of-contents">▲ Go Back to TOC</a>
-<br /><br />
+<br /><br /><br />
 
 ---
 
