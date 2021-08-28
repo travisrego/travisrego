@@ -278,7 +278,7 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 <a href="https://github.com/travisrego">
 <p align="center">
-<img alt="last manual update" src="https://img.shields.io/badge/Last%20Update-26/8/21-brightgreen.svg?style=flat-square"></img>
+<img alt="last manual update" src="https://img.shields.io/badge/Last%20Update-28/8/21-brightgreen.svg?style=flat-square"></img>
 </p>
 </a>
 <br />
