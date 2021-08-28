@@ -294,7 +294,7 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <img align="left" alt="update" src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/update-rotation.svg" width="34px" /> 
 
 
-## &nbsp;Profile Update
+## Profile Update
 
 <a href="https://github.com/travisrego">
 <p align="center">
