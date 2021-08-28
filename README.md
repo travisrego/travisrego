@@ -213,10 +213,6 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 <br /> <br />
 
----
-
-<br />
-
 ## 📈 Github Stats
 
 <details> 
@@ -255,6 +251,7 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 
 <br />
+<br />
 
 ---
 
@@ -267,6 +264,9 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <p><a href="https://www.buymeacoffee.com/travisrego"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="travisrego" /></a></p>
 
 <br />
+<br />
+<br />
+<a href="#table-of-contents">▲ Go Back to TOC</a>
 <br />
 <br />
 
@@ -299,7 +299,6 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 </p>
 </a>
 
-<br />
 <br />
 
 ---
