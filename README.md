@@ -36,9 +36,7 @@ Table of contents
 
 <br />
 
-<img align="left" alt="update" src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/beaming-face-with-smiling-eyes.png" width="26px" />
-
-## &nbsp;About Me
+## 😁 About Me
 
 - 🔭 I’m currently working on **Borderrain**
 
@@ -291,10 +289,9 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 <br />
 
-<img align="left" alt="update" src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/update-rotation.svg" width="34px" /> 
-
-
-## Profile Update
+<p align="center">
+<img alt="update"  src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/update-rotation.svg">
+</p>
 
 <a href="https://github.com/travisrego">
 <p align="center">
