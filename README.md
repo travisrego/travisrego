@@ -259,8 +259,6 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 ## 💸 Support Me
 
-<br />
-
 <p><a href="https://www.buymeacoffee.com/travisrego"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="travisrego" /></a></p>
 
 <br />
@@ -271,6 +269,8 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <br />
 
 ---
+
+<br />
 
 <!-- HTML -->
 
