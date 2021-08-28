@@ -32,6 +32,10 @@ Table of contents
 
 <br />
 
+---
+
+<br />
+
 ## 😁 About Me
 
 - 🔭 I’m currently working on **Borderrain**
@@ -52,8 +56,11 @@ Table of contents
 
 <br />
 
+---
+
+<br />
+
 ## 🛠 Tools and Languages
-###### that I use and know
 
 ### 👨‍💻 Programming languages
 
@@ -76,6 +83,10 @@ Table of contents
 
 <p><a href="https://www.aseprite.org"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/aseprite.svg" alt="aseprite" width="40" height="40"></img></a> <a href="https://www.adobe.com/mena_en/products/photoshop.html"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_Mobile_icon.svg" alt="photoshop" width="40" height="40"></img></a> <a href="https://inkscape.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Inkscape_Logo.svg" alt="inkscape" width="40" height="40"></img></a>&nbsp;<a href="https://www.blender.org"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg" alt="blender" width="40" height="40"></img></a>&nbsp; <a href="https://www.audacityteam.org"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Audacity_Logo_nofilter.svg" alt="audacity" width="40" height="40"></img></a>&nbsp; <a href="https://www.ableton.com/en"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/ableton.svg" alt="ableton" width="40" height="40"></img></a>&nbsp; <a href="https://handbrake.fr"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/HandBrake_Icon.png" alt="handbrake" width="40" height="40"></img></a> <a href="https://www.mysql.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" widht="40" height="40"></img></a><a href="https://www.apache.org"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/apache.svg" alt="apache" width="40" height="40"></img></a>
 </p>
+
+<br />
+
+---
 
 <br />
 
@@ -183,6 +194,10 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <br />
 <br />
 
+---
+
+<br />
+
 ## 🚧 Latest Project
 
 <div align="center">
@@ -197,6 +212,10 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <br />
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 <br /> <br />
+
+---
+
+<br />
 
 ## 📈 Github Stats
 
@@ -237,12 +256,22 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 <br />
 
-## 💰 Support Me
+---
+
+<br />
+
+## 💸 Support Me
+
+<br />
 
 <p><a href="https://www.buymeacoffee.com/travisrego"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="travisrego" /></a></p>
 
 <br />
 <br />
+<br />
+
+---
+
 <br />
 
 <!-- HTML -->
@@ -254,6 +283,10 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <br />
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 <br />
+<br />
+
+---
+
 <br />
 
 <p align="center">
@@ -269,9 +302,16 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <br />
 <br />
 
-<p align="left">
-<a href="https://github.com/travisrego"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in"></a>
-</p>
+---
+
+<br />
 
 <p align="center">
-<img src="https://i.imgur.com/t6oKHuv.png" height="150" width="100%"></p>
+  <a href="https://github.com/travisrego"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in" alt="Quotes"/>
+</p>
+
+<br />
+
+---
+
+<br />
