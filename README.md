@@ -243,7 +243,7 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <img src="https://komarev.com/ghpvc/?username=travisrego&label=Profile%20views&color=0e75b6&style=flat" alt="travisrego" />
 </div>
 
-<br /><br />
+<br />
 
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 
