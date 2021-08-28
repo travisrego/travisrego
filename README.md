@@ -36,7 +36,9 @@ Table of contents
 
 <br />
 
-## 😁 About Me
+<img align="left" alt="update" src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/beaming-face-with-smiling-eyes.png" width="26px" />
+
+## &nbsp;About Me
 
 - 🔭 I’m currently working on **Borderrain**
 
@@ -289,9 +291,10 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 <br />
 
-<p align="center">
-<img alt="update"  src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/update-rotation.svg">
-</p>
+<img align="left" alt="update" src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/update-rotation.svg" width="34px" /> 
+
+
+## &nbsp;Profile Update
 
 <a href="https://github.com/travisrego">
 <p align="center">
@@ -307,7 +310,7 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <br />
 
 <p align="center">
-  <a href="https://github.com/travisrego"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in" alt="Quotes"/>
+  <a href ="https://github.com/travisrego"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in" alt="Quotes"/>
 </p>
 
 <br />
