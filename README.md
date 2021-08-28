@@ -61,7 +61,6 @@ Table of contents
 <br />
 
 ## 🛠 Tools and Languages
-###### that I use and know
 
 ### 👨‍💻 Programming languages
 
