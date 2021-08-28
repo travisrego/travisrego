@@ -240,16 +240,19 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <img src="https://komarev.com/ghpvc/?username=travisrego&label=Profile%20views&color=0e75b6&style=flat" alt="travisrego" />
 </div>
 
+<br />
+<br />
+
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 
-
+<br />
 <br />
 
 ## 💰 Support Me
 
 <p><a href="https://www.buymeacoffee.com/travisrego"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="travisrego" /></a></p>
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 
 
