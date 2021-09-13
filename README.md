@@ -259,9 +259,9 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <!-- HTML -->
 
 ## 🤓 Dev Jokes
-<p href="https://github.com/travisrego">
+<a href="https://github.com/travisrego">
 <img src="https://readme-jokes.vercel.app/api?theme=blue-green&borderColor=purple" alt="Jokes Card" />
-</p>
+</a>
 <br />
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 <br />
@@ -289,6 +289,5 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 <p align="center">
   <a href="https://github.com/travisrego"><img src="https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://gist.githubusercontent.com/travisrego/178a7666330000da3354f9c2d62fb470/raw/quotes.json&theme=blue-green&animation=default&layout=default&font=default&animation=grow_out_in" alt="Quotes"/>
 </p>
-<br />
 
 ---
