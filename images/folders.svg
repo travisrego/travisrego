@@ -1,0 +1,8 @@
+<svg width="24" height="24" xmlns="http://www.w3.org/2000/svg" stroke-linejoin="round" stroke-linecap="round" fill="none" stroke="currentColor" stroke-width="2" class="icon icon-tabler icon-tabler-folders">
+
+ <g>
+  <title>Layer 1</title>
+  <path fill="#f8d775" id="svg_3" d="m17,17l0,2a2,2 0 0 1 -2,2l-10,0a2,2 0 0 1 -2,-2l0,-9a2,2 0 0 1 2,-2l2,0"/>
+  <path fill="#ffe9a2" id="svg_2" d="m9,4l3,0l2,2l5,0a2,2 0 0 1 2,2l0,7a2,2 0 0 1 -2,2l-10,0a2,2 0 0 1 -2,-2l0,-9a2,2 0 0 1 2,-2"/>
+ </g>
+</svg>
