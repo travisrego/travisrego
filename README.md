@@ -50,7 +50,7 @@ Table of contents
 
 - 🥅 Goal for this year is **Contribute more to Open Source projects**
 
-- 📫 You can reach me on Discord **MrAggo#2004**
+- 📫 You can reach me on Discord **MrAggo#8415**
 
 - ⚡ Fun fact **I love food 🍗**
 
