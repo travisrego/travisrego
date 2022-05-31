@@ -38,7 +38,7 @@ Table of contents
 
 ## 😁 About Me
 
-- 🔭 I’m currently working on **Borderrain**
+- 🔭 I’m currently working on **Files and Directories in C#**, **Protepad**, **Borderrain** 
 
 - 🌱 I’m currently learning **C#**
 
@@ -50,7 +50,7 @@ Table of contents
 
 - 🥅 Goal for this year is **Contribute more to Open Source projects**
 
-- 📫 You can reach me on Discord **MrAggo#8415**
+- 📫 You can reach me either on Discord **MrAggo#8415** or through email **contact@travisrego.cf** 
 
 - ⚡ Fun fact **I love food 🍗**
 
@@ -76,7 +76,7 @@ Table of contents
 <a href="https://www.jetbrains.com/rider"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/rider.svg" alt="rider" width="40" height="40"></img></a>&nbsp; <a href="https://visualstudio.microsoft.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="visualstudio" width="40" height="40"></img></a>&nbsp; <a href="https://code.visualstudio.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"></img></a>&nbsp;<a href="https://unity.com"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>&nbsp;<a href="https://www.sublimetext.com"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/sublime.svg" alt="sublime" width="40" height="40"></img></a> <a href="https://atom.io"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/atom/atom-original.svg" alt="atom" width="40" height="40"></img></a> <a href="http://brackets.io"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Brackets_Icon.svg" alt="brackets" width="40" height="40"></img></a>&nbsp; <a href="https://www.jetbrains.com/pycharm"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" alt="pycharm" width="40" height="40"></img></a></p>
 
 <p>
-<a href="https://jupyter.org"><img src="https://raw.githubusercontent.com/jupyter/jupyter.github.io/master/assets/main-logo.svg" alt="jupyter" width="40" height="40"></img></a>&nbsp; <a href="https://colab.research.google.com"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/COLLAB.svg" alt="collab" width="40" height="40"></img></a>
+<a href="https://jupyter.org"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"></img></a>&nbsp; <a href="https://colab.research.google.com"><img src="https://raw.githubusercontent.com/travisrego/travisrego/main/images/COLLAB.svg" alt="collab" width="40" height="40"></img></a>
 </p>
 
 ### 💻 Software
@@ -94,7 +94,7 @@ Table of contents
 <details>
 <summary>Q1) How did you learn to program?</summary>
 
-**Ans: I am a self-taught developer. I refer to few books and  go through documentation. Yes, I am that kind of guy 😬. Hopefully, in the future, I might look into coaching and other mediums.**
+**Ans: I am a self-taught developer. I refer to few books and  go through documentation. Currently in search of good courses, dm me on discord if you have any good recommendations.**
 
 <a href="#table-of-contents">▲ Go Back to TOC</a>
 </details>
@@ -277,7 +277,7 @@ I genuinely want to thank and shout out all these amazing repos which help make 
 
 <a href="https://github.com/travisrego">
 <p align="center">
-<img alt="last manual update" src="https://img.shields.io/badge/Last%20Update-20/10/21-brightgreen.svg?style=flat-square"></img>
+<img alt="last manual update" src="https://img.shields.io/badge/Last%20Update-31/5/22-brightgreen.svg?style=flat-square"></img>
 </p>
 </a>
 <br />
